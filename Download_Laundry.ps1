@@ -1,1 +1,0 @@
-https://github.com/YogaAnggaSaputra/Laundry/blob/main/Download_Laundry.ps1
